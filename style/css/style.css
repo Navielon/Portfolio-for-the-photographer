@@ -172,7 +172,7 @@ body {
 
 .progress-bar-line::before {
   content: '';
-  background-image: url(img/icons/point.png);
+  background-image: url(../../img/icons/point.png);
   background-repeat: no-repeat;
   display: block;
   width: 6px;
@@ -245,32 +245,32 @@ body {
 }
 
 .service__design {
-  background-image: url(img/icons/icon_1.png);
+  background-image: url(../../img/icons/icon_1.png);
   background-size: 41px 35px;
 }
 
 .service__photo {
-  background-image: url(img/icons/icon_2.png);
+  background-image: url(../../img/icons/icon_2.png);
   background-size: 43px 35px;
 }
 
 .service__web {
-  background-image: url(img/icons/icon_3.png);
+  background-image: url(../../img/icons/icon_3.png);
   background-size: 41px 35px;
 }
 
 .service__social {
-  background-image: url(img/icons/icon_4.png);
+  background-image: url(../../img/icons/icon_4.png);
   background-size: 37px 37px;
 }
 
 .service__marketing {
-  background-image: url(img/icons/icon_5.png);
+  background-image: url(../../img/icons/icon_5.png);
   background-size: 44px 37px;
 }
 
 .service__app {
-  background-image: url(img/icons/icon_6.png);
+  background-image: url(../../img/icons/icon_6.png);
   background-size: 37px 37px;
 }
 
@@ -454,7 +454,7 @@ body {
 .feedback__body::before {
   content: '';
   position: absolute;
-  background-image: url(img/icons/quote.png);
+  background-image: url(../../img/icons/quote.png);
   background-repeat: no-repeat;
   display: block;
   top: 0;
@@ -500,22 +500,22 @@ body {
 }
 
 .responses__icon-1 {
-  background-image: url(img/icons/heart.svg);
+  background-image: url(../../img/icons/heart.svg);
   background-size: 26px 23px;
 }
 
 .responses__icon-2 {
-  background-image: url(img/icons/case.svg);
+  background-image: url(../../img/icons/case.svg);
   background-size: 26px 23px;
 }
 
 .responses__icon-3 {
-  background-image: url(img/icons/sh.svg);
+  background-image: url(../../img/icons/sh.svg);
   background-size: 26px 24px;
 }
 
 .responses__icon-4 {
-  background-image: url(img/icons/pr.svg);
+  background-image: url(../../img/icons/pr.svg);
   background-size: 19px 23px;
 }
 
