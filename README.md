@@ -1,4 +1,4 @@
 # Сайт-портфолио для фотогрофа
 ## Одна из первых работ в портфолио.
 - Это простой одностраничный сайт
-- Посмотритеть сайт можно [тут](https://navielon.github.io/Portfolio-for-the-photographer)
+- Посмотритеть сайт можно [тут](https://navielon.github.io/photographer_p/)
